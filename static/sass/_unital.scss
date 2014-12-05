@@ -179,6 +179,10 @@ $modal-bg-color: $gray-1;
 //TOP HEADER IMAGE MARGIN
 $header_image_margin: -77px;
 
+header.global h1.logo {
+    margin-top: -14px;
+}
+
 //FOOTER MARGIN
 $footer_margin: ($baseline/4) 0;
 
